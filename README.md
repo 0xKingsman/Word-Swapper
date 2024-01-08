@@ -47,3 +47,26 @@ ETH: 0x55E0FD0619Cf4Aa0052E817D078887655D9E4EaD
 TRX: TJoVX5iiQAfVsFCJfMUPBgWLyUYbaydRdq
 
 DOGE: DHzPGfUYqP5UV36wCuDqimEZZEQt44kYmk
+
+## Author
+
+- [Kingsman](https://github.com/0xKingsman)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Feel free to contribute by submitting issues or pull requests.
+
+## Contact
+
+If you have any questions, feel free to reach out to the project owner:
+
+- GitHub: [Kingsman](https://github.com/0xKingsman)
+
+Happy coding!
+```
+
+Make sure to update the `search_text` and `replace_text` variables in the code snippet according to your project's specific needs. Additionally, provide information about how others can contribute, and feel free to add any additional sections that might be relevant for your project.
