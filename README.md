@@ -7,7 +7,7 @@ Word Swapper is a Python script designed to replace a specific word in all the f
 1. Clone the repository:
 
     ```
-    git clone https://github.com/KingsmanOffice/Word-Swapper.git
+    git clone https://github.com/0xKingsman/Word-Swapper.git
     cd Word-Swapper
     ```
 
@@ -34,7 +34,7 @@ Edit the following variables in `word_swapper.py` to customize the word replacem
 .
 .
 
-More Of my work at https://github.com/KingsmanOffice
+More Of my work at https://github.com/0xKingsman
 
 Buy Author A Coffee Hehe
 
