@@ -27,30 +27,17 @@ Edit the following variables in `word_swapper.py` to customize the word replacem
 2. search_text = "Kingsman"    # specify the word to be replaced
 3. replace_text = "NewWord"    # specify the replacement word
 
-.
-.
-.
-.
-.
-.
+## Author
 
-More Of my work at https://github.com/0xKingsman
+- [Kingsman](https://github.com/0xKingsman)
 
 Buy Author A Coffee Hehe
 
 BTC: bc1qmdrd7vlq99v9vdr9a9lzxaxkthyjdh8y3czl55
-
 LTC: LKzUMUPo5VQSYgghqH7hWqShzN1hS8PcUr
-
 ETH: 0x55E0FD0619Cf4Aa0052E817D078887655D9E4EaD
-
 TRX: TJoVX5iiQAfVsFCJfMUPBgWLyUYbaydRdq
-
 DOGE: DHzPGfUYqP5UV36wCuDqimEZZEQt44kYmk
-
-## Author
-
-- [Kingsman](https://github.com/0xKingsman)
 
 ## License
 
@@ -67,6 +54,5 @@ If you have any questions, feel free to reach out to the project owner:
 - GitHub: [Kingsman](https://github.com/0xKingsman)
 
 Happy coding!
-```
 
 Make sure to update the `search_text` and `replace_text` variables in the code snippet according to your project's specific needs. Additionally, provide information about how others can contribute, and feel free to add any additional sections that might be relevant for your project.
