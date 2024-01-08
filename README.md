@@ -39,7 +39,11 @@ More Of my work at https://github.com/KingsmanOffice
 Buy Author A Coffee Hehe
 
 BTC: bc1qmdrd7vlq99v9vdr9a9lzxaxkthyjdh8y3czl55
+
 LTC: LKzUMUPo5VQSYgghqH7hWqShzN1hS8PcUr
+
 ETH: 0x55E0FD0619Cf4Aa0052E817D078887655D9E4EaD
+
 TRX: TJoVX5iiQAfVsFCJfMUPBgWLyUYbaydRdq
+
 DOGE: DHzPGfUYqP5UV36wCuDqimEZZEQt44kYmk
